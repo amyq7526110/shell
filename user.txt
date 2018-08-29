@@ -1,0 +1,9 @@
+A
+B
+C
+D
+E
+sfdsf
+ddf
+dfff
+export PYTHONSTARTUP=/usr/bin/tab.py
